@@ -2,6 +2,7 @@
 	import { i18n } from '$lib/i18n';
 	import { ParaglideJS } from '@inlang/paraglide-sveltekit';
 	import '../app.css';
+	import '@fortawesome/fontawesome-free/css/all.min.css';
 	let { children } = $props();
 </script>
 
